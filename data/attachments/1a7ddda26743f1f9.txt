@@ -1,0 +1,630 @@
+INFO:root:Setting up Appium driver.
+INFO:root:Appium driver setup complete.
+INFO:root:Starting screen recording.
+INFO:root:Restarting app.
+INFO:root:Attempting to find image: images/PIQ/UT_icon.png
+INFO:root:On the home screen.
+INFO:root:ECU connected.
+INFO:root:Attempting to find image: images/ECU/sensors_off_icon.png
+INFO:root:On the main mask
+INFO:root:Attempting to find and click image: images/ECU/next_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/next_icon_weedseeker.png
+INFO:root:Attempting to find and click image: images/ECU/settings_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/settings_icon_weedseeker.png
+INFO:root:Searching for text: PARAMETERS
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: oe
+INFO:root:Checking text: parameters
+INFO:root:Found text 'PARAMETERS'
+INFO:root:Clicking on point: (730, 328)
+INFO:root:Entering text: 30.0
+INFO:root:Clicking on point: (745, 417)
+INFO:root:Entering text: 0.1
+INFO:root:Clicking on point: (737, 506)
+INFO:root:Entering text: 15.0
+INFO:root:Clicking on point: (735, 586)
+INFO:root:Entering text: 2.0
+INFO:root:Attempting to find and click image: images/ECU/config/unchecked.png
+INFO:root:Successfully clicked image: images/ECU/config/unchecked.png
+INFO:root:Attempting to find and click image: images/ECU/config/boom_config_weedseeker_icon.png
+INFO:root:Successfully clicked image: images/ECU/config/boom_config_weedseeker_icon.png
+INFO:root:Clicking on point: (726, 583)
+INFO:root:Entering text: 715353
+INFO:root:Clicking on point: (775, 328)
+INFO:root:Entering text: 10
+INFO:root:Attempting to find and click image: images/ECU/back_icon.png
+INFO:root:Successfully clicked image: images/ECU/back_icon.png
+INFO:root:Attempting to find and click image: images/ECU/config/pressure_config.png
+INFO:root:Successfully clicked image: images/ECU/config/pressure_config.png
+INFO:root:Clicking on point: (743, 287)
+INFO:root:Entering text: 8
+INFO:root:Clicking on point: (736, 331)
+INFO:root:Entering text: 20.0
+INFO:root:Restarting app.
+INFO:root:Attempting to find image: images/PIQ/UT_icon.png
+INFO:root:On the home screen.
+INFO:root:ECU connected.
+INFO:root:Config changed
+INFO:root:Attempting to find image: images/ECU/sensors_off_icon.png
+INFO:root:On the main mask
+INFO:root:Attempting to find and click image: images/ECU/next_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/next_icon_weedseeker.png
+INFO:root:Attempting to find and click image: images/ECU/settings_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/settings_icon_weedseeker.png
+INFO:root:Searching for text: PARAMETERS
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: toaanveat
+INFO:root:Checking text: o
+INFO:root:Checking text: parameters
+INFO:root:Found text 'PARAMETERS'
+INFO:root:Clicking on point: (730, 328)
+INFO:root:Success: working_width retained the value 30.0.
+INFO:root:Clicking on point: (745, 417)
+INFO:root:Success: off_below retained the value 0.1.
+INFO:root:Clicking on point: (737, 506)
+INFO:root:Success: nozzle_height retained the value 15.0.
+INFO:root:Clicking on point: (735, 586)
+INFO:root:Success: d_overspray retained the value 2.0.
+INFO:root:Success: Fast Filter selection saved.
+INFO:root:Attempting to find image: images/ECU/config/checked.png
+INFO:root:Attempting to find and click image: images/ECU/config/checked.png
+INFO:root:Successfully clicked image: images/ECU/config/checked.png
+INFO:root:Attempting to find and click image: images/ECU/config/boom_config_weedseeker_icon.png
+INFO:root:Successfully clicked image: images/ECU/config/boom_config_weedseeker_icon.png
+INFO:root:Searching for text: BOOM
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: nr
+INFO:root:Checking text: aed.
+INFO:root:Checking text: 
+INFO:root:Checking text: tana
+INFO:root:Checking text: am
+INFO:root:Checking text: boom
+INFO:root:Found text 'BOOM'
+INFO:root:Clicking on point: (775, 328)
+INFO:root:Success: sections retained the value 10.
+INFO:root:Searching for text: 30
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: —
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: sections:
+INFO:root:Checking text: 
+INFO:root:Checking text: 18
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: number
+INFO:root:Checking text: of
+INFO:root:Checking text: nozzles:
+INFO:root:Checking text: 
+INFO:root:Checking text: 34a
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: user
+INFO:root:Checking text: password:
+INFO:root:Checking text: 
+INFO:root:Checking text: 907593
+INFO:root:Checking text: gqge0aaeq
+ERROR:root:[31mMessage: Text '30' not found within 30 seconds
+
+INFO:root:Stopping screen recording.
+INFO:root:Screen Recording Saved at: 'reports/2025-01-28/AGINFRA-694.mp4'
+INFO:root:Capturing screenshot: AGINFRA-694: Message: Text '30' not found within 30 seconds
+

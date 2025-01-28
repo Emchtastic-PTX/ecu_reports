@@ -1,0 +1,262 @@
+INFO:root:Setting up Appium driver.
+INFO:root:Appium driver setup complete.
+INFO:root:Starting screen recording.
+INFO:root:Restarting app.
+INFO:root:Attempting to find image: images/PIQ/UT_icon.png
+INFO:root:On the home screen.
+INFO:root:ECU connected.
+INFO:root:Attempting to find image: images/ECU/sensors_off_icon.png
+INFO:root:On the main mask
+INFO:root:Attempting to find and click image: images/ECU/next_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/next_icon_weedseeker.png
+INFO:root:Attempting to find and click image: images/ECU/settings_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/settings_icon_weedseeker.png
+INFO:root:Attempting to find and click image: images/ECU/config/speed_config_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/config/speed_config_weedseeker.png
+INFO:root:Attempting to click text: Nav.
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: ta
+INFO:root:Checking text: op
+INFO:root:Checking text: +
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: speed
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: speed
+INFO:root:Checking text: source
+INFO:root:Checking text: 
+INFO:root:Checking text: nay.
+INFO:root:Attempting to click text: Auto
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: ta
+INFO:root:Checking text: op
+INFO:root:Checking text: +
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: speed
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: speed
+INFO:root:Checking text: source
+INFO:root:Checking text: 
+INFO:root:Checking text: nay.
+INFO:root:Checking text: speed
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: ae
+INFO:root:Checking text: reverse
+INFO:root:Checking text: drive
+INFO:root:Checking text: sensor:
+INFO:root:Checking text: 
+INFO:root:Checking text: nane
+INFO:root:Checking text: 
+INFO:root:Checking text: weedseeher
+INFO:root:Checking text: 2
+INFO:root:Checking text: speed:
+INFO:root:Checking text: 
+INFO:root:Checking text: man
+INFO:root:Checking text: @.deph
+INFO:root:Checking text: “max
+INFO:root:Checking text: q.@
+INFO:root:Checking text: aph
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: wheel
+INFO:root:Checking text: impulses:
+INFO:root:Checking text: 
+INFO:root:Checking text: ack
+INFO:root:Checking text: ae
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: aux
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: ‘a
+INFO:root:Checking text: oey
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: naw
+INFO:root:Checking text: speed
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: craund
+INFO:root:Checking text: speed
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: can
+INFO:root:Checking text: nmea
+INFO:root:Checking text: speed
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: sensor
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: auto
+INFO:root:Restarting app.
+INFO:root:Attempting to find image: images/PIQ/UT_icon.png
+INFO:root:On the home screen.
+INFO:root:ECU connected.
+INFO:root:Attempting to find image: images/ECU/sensors_off_icon.png
+INFO:root:On the main mask
+INFO:root:Attempting to find and click image: images/ECU/next_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/next_icon_weedseeker.png
+INFO:root:Attempting to find and click image: images/ECU/settings_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/settings_icon_weedseeker.png
+INFO:root:Attempting to find and click image: images/ECU/config/speed_config_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/config/speed_config_weedseeker.png
+INFO:root:Attempting to click text: Auto
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 719
+INFO:root:Checking text: op
+INFO:root:Checking text: +
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: speed
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: speed
+INFO:root:Checking text: source
+INFO:root:Checking text: 
+INFO:root:Checking text: auts
+INFO:root:Success: 'Auto' text found for the speed source.
+INFO:root:Attempting to click text: Nav
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 719
+INFO:root:Checking text: op
+INFO:root:Checking text: +
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: speed
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: speed
+INFO:root:Checking text: source
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: ae
+INFO:root:Checking text: reverse
+INFO:root:Checking text: drive
+INFO:root:Checking text: sensor:
+INFO:root:Checking text: 
+INFO:root:Checking text: nane
+INFO:root:Checking text: 
+INFO:root:Checking text: weedseeher
+INFO:root:Checking text: 2
+INFO:root:Checking text: speed:
+INFO:root:Checking text: 
+INFO:root:Checking text: man
+INFO:root:Checking text: @.deph
+INFO:root:Checking text: “max
+INFO:root:Checking text: q.@
+INFO:root:Checking text: aph
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: wheel
+INFO:root:Checking text: impulses:
+INFO:root:Checking text: 
+INFO:root:Checking text: ack
+INFO:root:Checking text: ae
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: aux
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 19
+INFO:root:Checking text: op
+INFO:root:Checking text: y
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: 
+INFO:root:Checking text: naw
+INFO:root:Attempting to find and click image: images/ECU/home_icon_weedseeker.png
+INFO:root:Successfully clicked image: images/ECU/home_icon_weedseeker.png
+INFO:root:Stopping screen recording.
+INFO:root:Screen Recording Saved at: 'reports/2025-01-28/AGINFRA-687.mp4'

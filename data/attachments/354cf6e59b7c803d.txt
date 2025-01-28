@@ -1,0 +1,262 @@
+[32mINFO    [0m root:utils.py:443 Setting up Appium driver.
+[32mINFO    [0m root:utils.py:453 Appium driver setup complete.
+[32mINFO    [0m root:utils.py:237 Starting screen recording.
+[32mINFO    [0m root:utils.py:272 Restarting app.
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/PIQ/UT_icon.png
+[32mINFO    [0m root:utils.py:291 On the home screen.
+[32mINFO    [0m root:utils.py:305 ECU connected.
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/ECU/sensors_off_icon.png
+[32mINFO    [0m root:utils.py:331 On the main mask
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/next_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/next_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/settings_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/settings_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/config/speed_config_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/config/speed_config_weedseeker.png
+[32mINFO    [0m root:utils.py:178 Attempting to click text: Nav.
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: ta
+[32mINFO    [0m root:utils.py:199 Checking text: op
+[32mINFO    [0m root:utils.py:199 Checking text: +
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: source
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: nay.
+[32mINFO    [0m root:utils.py:178 Attempting to click text: Auto
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: ta
+[32mINFO    [0m root:utils.py:199 Checking text: op
+[32mINFO    [0m root:utils.py:199 Checking text: +
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: source
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: nay.
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: ae
+[32mINFO    [0m root:utils.py:199 Checking text: reverse
+[32mINFO    [0m root:utils.py:199 Checking text: drive
+[32mINFO    [0m root:utils.py:199 Checking text: sensor:
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: nane
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: weedseeher
+[32mINFO    [0m root:utils.py:199 Checking text: 2
+[32mINFO    [0m root:utils.py:199 Checking text: speed:
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: man
+[32mINFO    [0m root:utils.py:199 Checking text: @.deph
+[32mINFO    [0m root:utils.py:199 Checking text: “max
+[32mINFO    [0m root:utils.py:199 Checking text: q.@
+[32mINFO    [0m root:utils.py:199 Checking text: aph
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: wheel
+[32mINFO    [0m root:utils.py:199 Checking text: impulses:
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: ack
+[32mINFO    [0m root:utils.py:199 Checking text: ae
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: aux
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: ‘a
+[32mINFO    [0m root:utils.py:199 Checking text: oey
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: naw
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: craund
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: can
+[32mINFO    [0m root:utils.py:199 Checking text: nmea
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: sensor
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: auto
+[32mINFO    [0m root:utils.py:272 Restarting app.
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/PIQ/UT_icon.png
+[32mINFO    [0m root:utils.py:291 On the home screen.
+[32mINFO    [0m root:utils.py:305 ECU connected.
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/ECU/sensors_off_icon.png
+[32mINFO    [0m root:utils.py:331 On the main mask
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/next_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/next_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/settings_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/settings_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/config/speed_config_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/config/speed_config_weedseeker.png
+[32mINFO    [0m root:utils.py:178 Attempting to click text: Auto
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 719
+[32mINFO    [0m root:utils.py:199 Checking text: op
+[32mINFO    [0m root:utils.py:199 Checking text: +
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: source
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: auts
+[32mINFO    [0m root:test_cases.py:65 Success: 'Auto' text found for the speed source.
+[32mINFO    [0m root:utils.py:178 Attempting to click text: Nav
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 719
+[32mINFO    [0m root:utils.py:199 Checking text: op
+[32mINFO    [0m root:utils.py:199 Checking text: +
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: speed
+[32mINFO    [0m root:utils.py:199 Checking text: source
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: ae
+[32mINFO    [0m root:utils.py:199 Checking text: reverse
+[32mINFO    [0m root:utils.py:199 Checking text: drive
+[32mINFO    [0m root:utils.py:199 Checking text: sensor:
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: nane
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: weedseeher
+[32mINFO    [0m root:utils.py:199 Checking text: 2
+[32mINFO    [0m root:utils.py:199 Checking text: speed:
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: man
+[32mINFO    [0m root:utils.py:199 Checking text: @.deph
+[32mINFO    [0m root:utils.py:199 Checking text: “max
+[32mINFO    [0m root:utils.py:199 Checking text: q.@
+[32mINFO    [0m root:utils.py:199 Checking text: aph
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: wheel
+[32mINFO    [0m root:utils.py:199 Checking text: impulses:
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: ack
+[32mINFO    [0m root:utils.py:199 Checking text: ae
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: aux
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 19
+[32mINFO    [0m root:utils.py:199 Checking text: op
+[32mINFO    [0m root:utils.py:199 Checking text: y
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: 
+[32mINFO    [0m root:utils.py:199 Checking text: naw
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/home_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/home_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:246 Stopping screen recording.
+[32mINFO    [0m root:utils.py:263 Screen Recording Saved at: 'reports/2025-01-28/AGINFRA-687.mp4'

@@ -1,0 +1,1 @@
+[{"uid":"89ed64b7c61dba1f","name":"AGINFRA-694: WeedSeeker2: Settings test","time":{"start":1738092328702,"stop":1738092604099,"duration":275397},"status":"failed","severity":"normal"},{"uid":"35121672e52eedec","name":"AGINFRA-687: Add radar speed source for WeedSeeker 2","time":{"start":1738092198192,"stop":1738092328692,"duration":130500},"status":"passed","severity":"normal"}]

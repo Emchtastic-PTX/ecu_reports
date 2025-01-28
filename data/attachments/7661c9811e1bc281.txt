@@ -1,0 +1,629 @@
+[32mINFO    [0m root:utils.py:443 Setting up Appium driver.
+[32mINFO    [0m root:utils.py:453 Appium driver setup complete.
+[32mINFO    [0m root:utils.py:237 Starting screen recording.
+[32mINFO    [0m root:utils.py:272 Restarting app.
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/PIQ/UT_icon.png
+[32mINFO    [0m root:utils.py:291 On the home screen.
+[32mINFO    [0m root:utils.py:305 ECU connected.
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/ECU/sensors_off_icon.png
+[32mINFO    [0m root:utils.py:331 On the main mask
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/next_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/next_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/settings_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/settings_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:124 Searching for text: PARAMETERS
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: oe
+[32mINFO    [0m root:utils.py:155 Checking text: parameters
+[32mINFO    [0m root:utils.py:164 Found text 'PARAMETERS'
+[32mINFO    [0m root:utils.py:221 Clicking on point: (730, 328)
+[32mINFO    [0m root:utils.py:364 Entering text: 30.0
+[32mINFO    [0m root:utils.py:221 Clicking on point: (745, 417)
+[32mINFO    [0m root:utils.py:364 Entering text: 0.1
+[32mINFO    [0m root:utils.py:221 Clicking on point: (737, 506)
+[32mINFO    [0m root:utils.py:364 Entering text: 15.0
+[32mINFO    [0m root:utils.py:221 Clicking on point: (735, 586)
+[32mINFO    [0m root:utils.py:364 Entering text: 2.0
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/config/unchecked.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/config/unchecked.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/config/boom_config_weedseeker_icon.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/config/boom_config_weedseeker_icon.png
+[32mINFO    [0m root:utils.py:221 Clicking on point: (726, 583)
+[32mINFO    [0m root:utils.py:364 Entering text: 715353
+[32mINFO    [0m root:utils.py:221 Clicking on point: (775, 328)
+[32mINFO    [0m root:utils.py:364 Entering text: 10
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/back_icon.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/back_icon.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/config/pressure_config.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/config/pressure_config.png
+[32mINFO    [0m root:utils.py:221 Clicking on point: (743, 287)
+[32mINFO    [0m root:utils.py:364 Entering text: 8
+[32mINFO    [0m root:utils.py:221 Clicking on point: (736, 331)
+[32mINFO    [0m root:utils.py:364 Entering text: 20.0
+[32mINFO    [0m root:utils.py:272 Restarting app.
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/PIQ/UT_icon.png
+[32mINFO    [0m root:utils.py:291 On the home screen.
+[32mINFO    [0m root:utils.py:305 ECU connected.
+[32mINFO    [0m root:utils.py:315 Config changed
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/ECU/sensors_off_icon.png
+[32mINFO    [0m root:utils.py:331 On the main mask
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/next_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/next_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/settings_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/settings_icon_weedseeker.png
+[32mINFO    [0m root:utils.py:124 Searching for text: PARAMETERS
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: toaanveat
+[32mINFO    [0m root:utils.py:155 Checking text: o
+[32mINFO    [0m root:utils.py:155 Checking text: parameters
+[32mINFO    [0m root:utils.py:164 Found text 'PARAMETERS'
+[32mINFO    [0m root:utils.py:221 Clicking on point: (730, 328)
+[32mINFO    [0m root:test_cases.py:212 Success: working_width retained the value 30.0.
+[32mINFO    [0m root:utils.py:221 Clicking on point: (745, 417)
+[32mINFO    [0m root:test_cases.py:212 Success: off_below retained the value 0.1.
+[32mINFO    [0m root:utils.py:221 Clicking on point: (737, 506)
+[32mINFO    [0m root:test_cases.py:212 Success: nozzle_height retained the value 15.0.
+[32mINFO    [0m root:utils.py:221 Clicking on point: (735, 586)
+[32mINFO    [0m root:test_cases.py:212 Success: d_overspray retained the value 2.0.
+[32mINFO    [0m root:test_cases.py:220 Success: Fast Filter selection saved.
+[32mINFO    [0m root:utils.py:90 Attempting to find image: images/ECU/config/checked.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/config/checked.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/config/checked.png
+[32mINFO    [0m root:utils.py:44 Attempting to find and click image: images/ECU/config/boom_config_weedseeker_icon.png
+[32mINFO    [0m root:utils.py:80 Successfully clicked image: images/ECU/config/boom_config_weedseeker_icon.png
+[32mINFO    [0m root:utils.py:124 Searching for text: BOOM
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: nr
+[32mINFO    [0m root:utils.py:155 Checking text: aed.
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: tana
+[32mINFO    [0m root:utils.py:155 Checking text: am
+[32mINFO    [0m root:utils.py:155 Checking text: boom
+[32mINFO    [0m root:utils.py:164 Found text 'BOOM'
+[32mINFO    [0m root:utils.py:221 Clicking on point: (775, 328)
+[32mINFO    [0m root:test_cases.py:242 Success: sections retained the value 10.
+[32mINFO    [0m root:utils.py:124 Searching for text: 30
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: —
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: sections:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 18
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: number
+[32mINFO    [0m root:utils.py:155 Checking text: of
+[32mINFO    [0m root:utils.py:155 Checking text: nozzles:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 34a
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: user
+[32mINFO    [0m root:utils.py:155 Checking text: password:
+[32mINFO    [0m root:utils.py:155 Checking text: 
+[32mINFO    [0m root:utils.py:155 Checking text: 907593
+[32mINFO    [0m root:utils.py:155 Checking text: gqge0aaeq
+[1m[31mERROR   [0m root:utils.py:340 [31mMessage: Text '30' not found within 30 seconds
+
+[32mINFO    [0m root:utils.py:246 Stopping screen recording.
+[32mINFO    [0m root:utils.py:263 Screen Recording Saved at: 'reports/2025-01-28/AGINFRA-694.mp4'
+[32mINFO    [0m root:utils.py:351 Capturing screenshot: AGINFRA-694: Message: Text '30' not found within 30 seconds
